@@ -1,128 +1,101 @@
-# 👋 Hi, I'm Joy Chepchumba
+# 👋 Welcome to My QA Portfolio
 
-## Quality Assurance Analyst
+Hello! I'm **Joy Chepchumba**, a Quality Assurance Analyst passionate about delivering high-quality software through structured testing, continuous learning, and practical quality engineering.
 
-Welcome to my Quality Assurance portfolio!
-
-I am a Quality Assurance Analyst with experience in manual testing, functional testing, regression testing, user acceptance testing (UAT), API testing, and mobile testing across multiple African markets. I am passionate about delivering high-quality software by identifying defects early, validating business requirements, and ensuring reliable, user-focused releases.
-
-This repository showcases my professional journey, technical skills, and continuous learning as I grow into Quality Engineering and Test Automation.
+This portfolio showcases my practical experience across manual testing, API testing, regression testing, and my ongoing automation journey. Each repository demonstrates real-world QA documentation and testing practices based on industry standards.
 
 ---
 
-# 💼 Core Competencies
+# 📂 Portfolio Repositories
 
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- User Acceptance Testing (UAT)
-- Exploratory Testing
-- API Testing (Postman, Insomnia & Swagger)
-- Mobile Testing (Android & iOS)
-- Web Testing
-- Production Verification
-- Defect Management (Jira)
-- Test Planning & Test Case Design
-- Test Documentation & Reporting
-- Risk-Based Testing
-- Confluence
-- SQL (Currently Learning)
-- Playwright Test Automation (Currently Learning)
-- Git & GitHub (Currently Learning)
+## 🧪 Manual Testing Portfolio
+
+A complete manual testing project demonstrating the end-to-end software testing lifecycle.
+
+### Includes
+
+* Test Plans
+* Test Cases
+* Bug Reports
+* Regression Testing Checklists
+* Test Summary Reports
+
+**Repository:** `manual-testing-portfolio`
 
 ---
 
-# 🛠 Tools & Technologies
+## 🔌 API Testing Portfolio
 
-- Jira
-- Confluence
-- Postman
-- Insomnia
-- Swagger
-- Playwright
-- Git
-- GitHub
-- VS Code
-- Browser Developer Tools
+A practical API testing project showcasing REST API validation and documentation.
 
----
+### Includes
 
-# 🌍 Professional Experience
+* API Test Plans
+* API Test Cases
+* Bearer Token Authentication
+* HTTP Status Code Validation
+* API Bug Reports
+* API Test Summary Reports
 
-I have contributed to testing products across multiple African markets, validating functionality across web, Android, and iOS platforms. My experience includes regression testing, API validation, exploratory testing, production verification, and user acceptance testing to ensure stable, reliable, and high-quality software releases.
-
-### Products & Features Tested
-
-- User Authentication
-- Registration & Login
-- Password Reset
-- Deposits & Withdrawals
-- Sportsbook
-- Jackpots
-- Casino
-- Mobile Applications (Android & iOS)
-- Mobile Web
-- Promotions
-- Analytics Validation
-- User Acceptance Testing (UAT)
+**Repository:** `api-testing-portfolio`
 
 ---
 
-# 🎯 What I Focus On
+# 🛠 Skills Demonstrated
 
-I enjoy improving software quality by:
-
-- Designing comprehensive test scenarios and test cases
-- Identifying edge cases and potential product risks
-- Performing regression testing before releases
-- Validating APIs and backend integrations
-- Collaborating with developers, product managers, and stakeholders
-- Ensuring software aligns with business requirements and delivers an excellent user experience
-
----
-
-# 🚀 Current Learning Journey
-
-I believe learning never stops.
-
-I'm currently expanding my skills in:
-
-- Playwright Test Automation
-- SQL for Quality Assurance
-- Git & GitHub
-- Charles Proxy
-- CI/CD Fundamentals
-- Modern Test Automation Practices
+* Manual Testing
+* Functional Testing
+* Regression Testing
+* Exploratory Testing
+* API Testing
+* REST API Validation
+* Authentication Testing
+* HTTP Status Code Validation
+* Test Planning
+* Test Case Design
+* Bug Reporting
+* Test Documentation
 
 ---
 
-# 📂 Portfolio Projects
+# 🧰 Tools & Technologies
 
-This portfolio will continue to grow as I document my learning journey and showcase practical QA projects.
-
-Upcoming repositories:
-
-- QA Documentation
-- Regression Testing Portfolio
-- API Testing with Postman & Insomnia
-- Playwright Automation
-- SQL for QA
-- Mobile Testing
-- Performance Testing
-- Charles Proxy Labs
+* Postman
+* Swagger / OpenAPI
+* Insomnia
+* Git
+* GitHub
+* Jira
+* Confluence
+* DBeaver
+* Visual Studio Code
 
 ---
 
-# 🌱 Career Vision
+# 🚀 Currently Learning
 
-My goal is to become a well-rounded Quality Engineer by combining strong manual testing expertise with automation, API testing, and modern quality engineering practices to deliver reliable, scalable, and customer-focused software.
+* Playwright Automation
+* TypeScript
+* API Automation
+* Performance Testing (K6)
+* SQL for QA
 
 ---
 
-# 📫 Thank You
+# 📅 Upcoming Portfolio Projects
 
-Thank you for taking the time to visit my portfolio.
+* CRUD Operations Testing
+* Playwright Automation Portfolio
+* SQL Testing Portfolio
+* Performance Testing Portfolio
+* Mobile Testing Portfolio
 
-I am passionate about software quality, continuous learning, and collaborating with teams to build reliable, high-performing products that create exceptional user experiences.
+---
 
-> *"Quality is never an accident; it is always the result of intelligent effort."* — John Ruskin
+# 🎯 Goal
+
+The purpose of this portfolio is to demonstrate my practical QA knowledge through well-structured testing artifacts that reflect real-world software testing activities and industry best practices.
+
+I believe quality is achieved through careful planning, thorough validation, clear documentation, and continuous learning. This portfolio documents my growth as I continue building my expertise in both manual and automated testing.
+
+Thank you for visiting my QA Portfolio!
